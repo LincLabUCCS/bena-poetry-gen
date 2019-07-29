@@ -11,12 +11,12 @@ Second, we gather data from the UC-Santa Cruz Psychology Deparment's __DreamBank
 Listed below are a few handpicked samples from each of the models we currently have trained. 
 
 
-The other, who with one accord|
-Wrote my essay, in that he was dear|
-And good, and knew well, how we ought to treat|
-A man of such renown, and such love?|
-He's a good honest man, no doubt|
-|
+The other, who with one accord
+Wrote my essay, in that he was dear
+And good, and knew well, how we ought to treat
+A man of such renown, and such love?
+He's a good honest man, no doubt
+
 A trust poem. |
 ----------|
 
