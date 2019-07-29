@@ -16,7 +16,6 @@ Wrote my essay, in that he was dear
 And good, and knew well, how we ought to treat
 A man of such renown, and such love?
 He's a good honest man, no doubt
-
 A trust poem. |
 ----------|
 
