@@ -10,13 +10,45 @@ Second, we gather data from the UC-Santa Cruz Psychology Deparment's __DreamBank
 ## Samples
 Listed below are a few handpicked samples from each of the models we currently have trained. 
 
+#### An anger poem:
+_Amidst the chaos throng'd, with angry voices each
+His rival's mockery; loud their scorn was fill'd;
+So fierce their rage, and in their eager power
+Met on the walls of Troy, were fill'd with dismay._
 
-The other, who with one accord
+#### An anticipation poem:
+_We have reached the peak of the highest mountain in the world
+The mountain of dreams.
+This is the view
+Across the valley,
+One hour's journey back,
+We crossed it on the way between
+A band of beautiful young women.
+There was_
+
+#### A joy poem:
+_Heard I a song of joy,
+A song of happy sound,
+Fills all the air I breathe,
+To him I sing, to him
+I sing the happy song.
+All night long on the steep green grass
+I ride and sing_
+
+#### A sadness poem:
+_A long trail of falling mist
+Had made its way here, and now
+Aerily it seemed, as if to drown
+The discordant thunder clang.
+It seemed to drown the music of the rain;
+In this lost place of sorrow
+Far off_
+
+#### A trust poem:
+_The other, who with one accord
 Wrote my essay, in that he was dear
 And good, and knew well, how we ought to treat
 A man of such renown, and such love?
-He's a good honest man, no doubt
-A trust poem. |
-----------|
+He's a good honest man, no doubt_
 
 **Future versions of this repo will include code, steps for reproduction, and a more in depth analysis on project subtleties.
